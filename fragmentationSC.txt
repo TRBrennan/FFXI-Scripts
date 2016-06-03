@@ -1,0 +1,7 @@
+input /ja "Immanence" <me>;
+wait 2;
+input /ma "Blizzard" <t>;
+wait 4;
+input /ja "Immanence" <me>;
+wait 2;
+input /ma "Water" <t>;

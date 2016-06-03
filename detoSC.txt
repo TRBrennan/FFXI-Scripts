@@ -1,0 +1,8 @@
+input /ja "Immanence" <me>;
+wait 2;
+input /ma "Stone" <t>;
+wait 4;
+input /ja "Immanence" <me>;
+wait 2;
+input /ma "Aero"  <t>;
+
