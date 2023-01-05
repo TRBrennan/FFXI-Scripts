@@ -56,3 +56,12 @@ bind !f3 input /ta <a22>
 bind !f4 input /ta <a23>
 bind !f5 input /ta <a24>
 bind !f6 input /ta <a25>
+
+lua l roller;
+lua l stars;
+lua l Trusts;
+lua l equipviewer;
+lua l autorevite;
+lua l whereisdi;
+lua l anchor;
+lua l stoprunning;
